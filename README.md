@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Dauren, a Backend Developer based in Kazakhstan.
+Main stack: Node.js, FastAPI, Vue.js, SQL/NoSQL, Docker.
+Aiming to be a proficent software engineer.
+
 <!--
 **DaurenZh/DaurenZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
