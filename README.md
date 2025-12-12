@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I'm Dauren, a Backend Developer based in Kazakhstan.
+
 Main stack: Node.js, FastAPI, Vue.js, SQL/NoSQL, Docker.
+
 Aiming to be a proficent software engineer.
 
 <!--
